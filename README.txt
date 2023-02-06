@@ -1,4 +1,4 @@
-Mariam Bangura 7009604
+Mariam Bangura
 
 Noisy Channel And N-gram Model Based Spelling Correction
 
