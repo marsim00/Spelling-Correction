@@ -2,14 +2,16 @@
 
 See the detailed project description in the **"spelling_project.pdf"**.
 
-## Project structure:
-- SP_main.py 		        main script with the implemented model
-- SP_func.py 		        script with functions used in SP_main.py 
-- spell.py 		          P.Norvigs off-the-shelf model
-- testsets.py 		      test items for evaluation
-- big.txt		            language corpus
-- missp.dat		          error corpus
-- spelling_project.pdf 	project report
+## Project files:
+|                      |                                           |
+|----------------------|-------------------------------------------|
+| SP_main.py 		       | main script with the implemented model    |
+| SP_func.py 		       | script with functions used in SP_main.py  |
+| spell.py 		         | P.Norvigs off-the-shelf model             |
+| testsets.py 		     | test items for evaluation                 |
+| big.txt		           | language corpus                           |
+| missp.dat		         | error corpus                              |
+| spelling_project.pdf |	project report                           | 
 
 ## Instructions:
 
