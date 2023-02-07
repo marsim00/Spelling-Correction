@@ -20,5 +20,6 @@ Expected runtime of SP_main.py: 45 min (appx. 5 minutes per each test); can be r
 
 ## References
 Jurafsky, D., & Martin, J. H. (2021). Appendix B: Spelling Correction and the Noisy Channel. In Speech and Language Processing. https://web.stanford.edu/~jurafsky/slp3/
+
 Norvig, P. (2007). How to Write a Spelling Corrector. http://norvig.com/spell-correct.html
 
